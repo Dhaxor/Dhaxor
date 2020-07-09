@@ -1,14 +1,21 @@
-### Hi there 👋
+### Bienvenue, incroyable 👋
 
-<!--
-**Dhaxor/Dhaxor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a JAMstack Developer and Technical Writer who currently works in Developer Relations at [Hashnode](https://hashnode.com). I'm passionate about sharing knowledge, documentation, web engineering, JAMstack, communities, and sustaining FOSS.
 
-### Hello, My Lord. May I? 👋
+I create technical content on my [Blog](/) && [YouTube](https://www.youtube.com/c/bolajiayodeji), [speak](https://bolajiayodeji.com/talks) at some conferences/meetups and build technical communities.
 
-Before you is a homosapien that has a knack for many things. _Believe you me_, I love building tools for [developers](https://dev.to/unicodeveloper), [writing](https://medium.com/@unicodeveloper), [speaking](https://speakerdeck.com/unicodeveloper), [building developer communities](https://www.benjamindada.com/forloop-africa/) and slapping my keyboard till something works. :collision:
+- 💬 Ask me about: Documentation, Web Engineering, JAMstack, Communities, and FOSS.
+- 📫 How to reach me: DM [@iambolajiayo](https://twitter.com/iambolajiayo)
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I'm in a blissful relationship [with Jesus Christ](https://www.bible.com/bible/111/jhn.3.16).
 
-I adore wicked people. I'm specifically referring to folks that are wicked about their personal growth. :grin:
+### Useful Links 💙
 
-:sparkles: Bombastic rhetorics abound that [@codebeast](https://twitter.com/codebeast) is human. Lies! My rebuttal accentuates his humanoid status--**half-human, half-robot, and definitely half-spirit**. :alien:
-
-Finally, I'm currently obssessed with improving the quality of life of Nigerians through [Eden Life](https://ouredenlife.com). :four_leaf_clover: :seedling:
+- [Blog](https://bolajiayodeji.com/)
+- [Patreon](https://www.patreon.com/bolajiayodeji)
+- [GitHub](https://github.com/BolajiAyodeji)
+- [Hashnode](https://hashnode.com/@bolajiayodeji)
+- [YouTube](https://www.youtube.com/c/bolajiayodeji)
+- [Twitter](https://twitter.com/iambolajiayo)
+- [Instagram](https://www.instagram.com/iambolajiayo/)
+- [LinkedIn](https://linkedin.com/in/iambolajiayo/)
