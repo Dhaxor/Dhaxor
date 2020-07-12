@@ -6,7 +6,7 @@ customers to gather requirements, produce plans, improve designs and develop hig
 
 
 - 💬 Ask me about: BackEnd development, FrontEnd development, Devops, Datascience,Machine learning,Algorithms and DataStructures.
-- 📫 How to reach me: DM [@dhaxor](https://twitter.com/dhaxor)
+- 📫 How to reach me: DM [@dhaxxor](https://twitter.com/dhaxxor)
 - 😄 Hobbies: I can't keep count
 - ⚡ Fun fact: I'm a polymath and a polyglot.
 
