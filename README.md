@@ -1,6 +1,6 @@
-### HI Everyone 👋
+### Welcome!!!!!!
 
-I am a Full Stack Web Developer adept at creating successful websites that meet customer needs. Specializing in collaborating with
+I'm a Full Stack Web Developer adept at creating successful websites that meet customer needs. Specializing in collaborating with
 customers to gather requirements, produce plans, improve designs and develop high end websites for usability and functionality.
 
 
