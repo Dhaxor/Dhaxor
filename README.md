@@ -7,9 +7,4 @@ customers to gather requirements, produce plans, improve designs and develop hig
 
 - 💬 Ask me about: BackEnd development, FrontEnd development, Devops, Datascience,Machine learning,Algorithms and DataStructures.
 - 😄 Hobbies: I can't keep count
-- ⚡ Fun fact: Do you know I'm ambidextrious.
-
-### Useful Links 💙
-
-
-- [GitHub](https://github.com/Dhaxor)
+- ⚡ Fun fact: I'm ambidextrious.
