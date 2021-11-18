@@ -7,4 +7,4 @@ customers to gather requirements, produce plans, improve designs and develop hig
 
 - 💬 Ask me about: BackEnd development, FrontEnd development, Devops, Datascience,Machine learning,Algorithms and DataStructures.
 - 😄 Hobbies: I can't keep count
-- ⚡ Fun fact: I'm ambidextrious.
+- ⚡ Fun fact: I so much love reading things that interest me.
