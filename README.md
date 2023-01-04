@@ -1,7 +1,9 @@
 ### Welcome To The Home of Less Bugs and More Wins
 
-I'm a Full Stack Web Developer adept at creating successful websites that meet customer needs. Specializing in collaborating with
-customers to gather requirements, produce plans, improve designs and develop high end websites for usability and functionality.
+I'm a Software Developer adept at creating successful websites that meet customer needs. Specializing in collaborating with
+customers to gather requirements, produce plans, improve designs and develop high end websites for usability and functionality. 
+I am Passionate about agile workflow, software best practices, and solving problems. Seeking opportunities to contribute to a 
+highly collaborative work environment.
 
 
 
