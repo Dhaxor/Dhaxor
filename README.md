@@ -18,6 +18,7 @@ I build and ship products end-to-end — iOS apps on the App Store, a desktop ap
 
 - **[super-utils-plus](https://github.com/Dhaxor/super-utils-plus)** — zero-dependency TypeScript utility library ([npm](https://www.npmjs.com/package/super-utils-plus))
 - **[llm-cloak](https://github.com/Dhaxor/llm-cloak)** — context firewall for LLM apps: redacts secrets/PII on the way out, restores on return, blocks prompt injections
+- **[injectbench](https://github.com/Dhaxor/injectbench)** — prompt-injection regression tests for LLM apps: attack corpus plus deterministic graders, drops into CI
 - **[botguard](https://github.com/Dhaxor/botguard)** — scans crypto trading-bot repos, npm/PyPI packages and Solidity contracts for wallet drainers, key stealers and typosquats
 - **[yt-caption-kit](https://github.com/Dhaxor/yt-caption-kit)** — fetch, translate and format YouTube captions/transcripts (typed API, CLI, SRT/WebVTT)
 - **[open-context-engine](https://github.com/Dhaxor/open-context-engine)** — context engine for AI coding agents (VS Code extension, TUI, studio)
