@@ -1,50 +1,35 @@
-# 👋 Welcome to My Profile
+# Hi, I'm Dhaxor 👋
 
-I'm a **Software Developer** 🚀 passionate about building scalable, user-centric solutions that solve real problems. With expertise spanning full-stack development, cloud infrastructure, and data science, I thrive in collaborative environments where I can contribute meaningfully to impactful projects.
+I build and ship products end-to-end — iOS apps on the App Store, a desktop app used across platforms — and open-source developer tools focused on **LLM safety, security automation, and everyday developer friction**.
 
----
+## 📱 Shipped products
 
-## 🎯 About Me
+| Product | What it is |
+|---|---|
+| **[Clapio](https://clapio.app/)** | Screen recorder + editor for macOS, Windows & Linux — local-first, on-device captions, MP4/GIF export |
+| **Ludo Royale** | Ludo board game for iOS with invite deep-links (universal links, pass-and-play) |
+| **Imposter** | Pass-and-play party word game for iOS (Expo/React Native) |
+| **BritReady: Life in the UK** | Study app for the UK citizenship test |
+| **Formline** | Strength training app |
+| **Vela** | Manifestation app with an on-device story engine, journal and streaks |
+| **Anker** | iOS app, v1.0 staged for review |
 
-- 🔧 **Specialized in**: Full-stack web development, backend systems, DevOps & cloud infrastructure, data science, and machine learning
-- 🧠 **Driven by**: Clean code, agile methodologies, software best practices, and continuous improvement
-- 🤝 **Best at**: Translating business requirements into elegant technical solutions and mentoring team members
-- 📍 **Current focus**: Building resilient systems and exploring emerging technologies
+## 🛠️ Open source
 
----
+- **[super-utils-plus](https://github.com/Dhaxor/super-utils-plus)** — zero-dependency TypeScript utility library ([npm](https://www.npmjs.com/package/super-utils-plus))
+- **[llm-cloak](https://github.com/Dhaxor/llm-cloak)** — context firewall for LLM apps: redacts secrets/PII on the way out, restores on return, blocks prompt injections
+- **[botguard](https://github.com/Dhaxor/botguard)** — scans crypto trading-bot repos, npm/PyPI packages and Solidity contracts for wallet drainers, key stealers and typosquats
+- **[yt-caption-kit](https://github.com/Dhaxor/yt-caption-kit)** — fetch, translate and format YouTube captions/transcripts (typed API, CLI, SRT/WebVTT)
+- **[open-context-engine](https://github.com/Dhaxor/open-context-engine)** — context engine for AI coding agents (VS Code extension, TUI, studio)
+- **[security-agents](https://github.com/Dhaxor/security-agents)** — CLI-first Solidity security workflow: Slither ingestion, exploit hypotheses, local validation
+- **[better-mitt](https://github.com/Dhaxor/better-mitt)** — tiny typed EventEmitter (browser + Node, UMD/ESM)
+- **[lotame-sdk](https://github.com/Dhaxor/lotame-sdk)** — TypeScript SDK for Lotame Lightning Tag with SSR helpers
+- **[mynota](https://github.com/Dhaxor/mynota)** — browser text editor where the whole note lives compressed in the URL — shareable, no backend
 
-## 💻 Tech Stack
+## 🔭 Currently
 
-| Category | Technologies |
-|----------|---------------|
-| **Languages** | JavaScript/TypeScript, Python, Java, SQL |
-| **Frontend** | React, Vue, HTML/CSS |
-| **Backend** | Node.js, Django, Spring |
-| **DevOps/Cloud** | Docker, Kubernetes, AWS, CI/CD pipelines |
-| **Data** | Machine Learning, Data Analysis, Algorithms & Data Structures |
+Building at the intersection of **AI safety and developer tooling** — prompt-injection defenses, scam-scanners for crypto tooling, and context systems for coding agents. Always solving problems people hit daily, then shipping the fix.
 
----
+## 📫
 
-## 📚 What I'm Into
-
-- 💬 **Ask me about**: Backend development, frontend development, DevOps, data science, machine learning, algorithms, and data structures
-- 🎓 **Always learning**: New frameworks, cloud technologies, and best practices in software engineering
-- 📖 **Passion**: Deep-diving into technical articles, documentation, and research papers
-- 🎯 **Hobbies**: Coding personal projects, contributing to open source, and exploring tech topics
-
----
-
-## 🚀 Let's Connect
-
-I'm always interested in collaborating on challenging projects or discussing technology. Feel free to reach out!
-
----
-
-> ⭐ **If you find my work interesting, consider starring some of my repositories!**
-
----
-
-### Featured Projects
-- 🔗 Check out my repositories below for more details on my work!
-- 📊 Open to collaborations and contributions
-- 💡 Always exploring new ideas and technologies
+Reach me via any of the repos above — happy to collaborate on LLM safety, React Native shipping, or security automation.
